@@ -24,5 +24,6 @@ Okay, not bad, that could be used as an introduction. Thanks for reading.
 
 **Contact me**
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- [Github (monkeyandres)](https://github.com/{{ site.author.github }})
+- [LinkedIn (monkeyandres)](https://linkedin.com/in/{{ site.author.linkedin }})
+- [{{ site.author.email }}](mailto:{{ site.author.email }})
