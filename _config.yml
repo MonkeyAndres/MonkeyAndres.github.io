@@ -1,7 +1,7 @@
 # Site settings
 title: MonkeyAndres # site title
 description: >- # site description
-  I'm a self-taught developer that enjoys problem-solving and continuously learning. I have ample experience on frontend and backend development.
+  Personal site of Andres Martin Angulo. Self-taught developer aiming to become a ML Engineer. Calisthenics Athlete. Minimalist. Movie addict.
 lang: en-US # default lang
 timezone: Europe/Madrid # set your timezone
 image: # This image used for Open Graph more info https://ogp.me/
@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Andres Martin Angulo # author name
   bio: >- # tell to the world
-    I'm a self-taught developer that enjoys problem-solving and continuously learning. I have ample experience on frontend and backend development.
+    Self-taught developer aiming to become a ML Engineer. Calisthenics Athlete. Minimalist. Movie addict.
   username: monkeyandres # general username
   github: monkeyandres # github username
   twitter: # twitter username
