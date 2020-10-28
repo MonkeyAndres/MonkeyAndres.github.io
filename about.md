@@ -18,7 +18,7 @@ That being said you can imagine that this blog will be full of random posts with
 
 In order to finish my introduction I would say that for the moment I'm not planning to write any post just because I have a lot of things going on such as learning day trading, studying, calisthenics, my job...
 
-That being say, thanks for reading.
+Okay, not bad, that could be used as an introduction. Thanks for reading.
 
 ---
 
