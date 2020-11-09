@@ -54,6 +54,9 @@ layout: compress
             <span itemprop="author" itemscope itemtype="https://schema.org/Person">
               <span itemprop="name">{{ site.author.name }}</span>
             </span>
+
+            {% include reading-time.html %}
+
             <time hidden datetime="{{ page.modified | date_to_xmlschema }}" itemprop="dateModified">
               {{ page.date | date: "%b %d, %Y" }}
             </time>
@@ -64,8 +67,9 @@ layout: compress
           {% endif %}
         </header>
 
-        <div class="page-content" itemprop="articleBody">
+        <div class="page-content" itemprop="articleBody">          
           {% include anchor_headings.html html=content anchorClass="anchor-head" beforeHeading=true h_min=1 h_max=4 %}
+
           {% if page.tweet %}
           <p>Comments this article on 
             <a href="https://twitter.com/{{site.twitter}}/status/{{page.tweet}}">Twitter</a>.

@@ -1,0 +1,8 @@
+{% capture words %}
+{{ content | number_of_words | minus: 180 }}
+{% endcapture %}
+{% unless words contains '-' %}
+<span class="reading-time">
+  {{ words | plus: 150 | divided_by: 150 | append: ' min read' }}
+</span>
+{% endunless %}

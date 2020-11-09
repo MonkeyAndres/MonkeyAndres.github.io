@@ -65,6 +65,13 @@
   span[itemprop="author"] {
     border-bottom: 1px dotted $light;
   }
+
+  span.reading-time {
+    &::before {
+      content: "•";
+      margin: 0 0.5em;
+    }
+  }
 }
 
 // Post content
