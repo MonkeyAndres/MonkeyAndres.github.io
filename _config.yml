@@ -25,7 +25,7 @@ author:
 url: "https://monkeyandres.com" #
 baseurl:
 permalink: /post/:title/
-google_analytics: # leave it blank if not wish
+google_analytics: G-WREVYFGQ99 # leave it blank if not wish
 fb_appid:
 
 # Collection setting
