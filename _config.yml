@@ -57,6 +57,7 @@ jekyll_compose:
       tags: []
     drafts:
       description:
+      pin: false
       tags: []
 
 # Homepage limit posts
