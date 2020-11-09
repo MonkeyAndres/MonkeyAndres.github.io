@@ -38,6 +38,7 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   syntax_highlighter: rouge
+  parse_block_html: true # For TOC
 
 # Default front matter
 defaults:
