@@ -1,0 +1,11 @@
+- title: ack.
+  url: /thanks
+  external: false
+
+- title: resume
+  url: javascript::void(0)
+  external: false
+
+- title: rss
+  url: /feed.xml
+  external: false

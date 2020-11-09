@@ -1,7 +1,22 @@
 <footer class="footer">
-  <a class="footer_item" href="/thanks">ack.</a>
-  <a class="footer_item" href="javascript::void(0)">resume</a>
-  <a class="footer_item" href="/feed.xml">rss</a>
+  {%- assign footer_items = site.data.footer_items -%}
+
+  {%- if footer_items %}
+    {%- for item in footer_items -%} 
+      {%- if item.external -%}
+        <a
+          class="footer_item"
+          href="{{ item.url }}"
+          target="_blank"
+          rel="noopener"
+          >{{ item.title }}</a
+        >
+      {%- else -%}
+        <a class="footer_item" href="{{ item.url }}">{{ item.title }}</a>
+      {%- endif -%} 
+    {%- endfor -%}
+  {%- endif -%}
+
   <span class="footer_item">&copy; {{ site.time | date: "%Y" }}</span>
   <small class="footer_copyright">
     <!-- Klisé Theme: https://github.com/piharpi/jekyll-klise -->
