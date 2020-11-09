@@ -167,4 +167,8 @@
   <meta name="theme-color" content="#ffffff" />
 
   <link rel="stylesheet" href="/assets/css/style.css" />
+
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+  {% include analytics.html %}
+  {% endif %}
 </head>
