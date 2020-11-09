@@ -15,7 +15,7 @@ In this post, I'm answering the question "Why did I open this blog?". Even if it
 
 ## The importance of asking why
 
-In the past, I've opened 2 blogs and both of them fail because after some time I stoped writing posts and as a result of that I ended up closing them. Now, looking back in time I can see that they don't failed because I stoped writing posts, them failed because I didn't have a strong reason to keep writing consistently.
+In the past, I've opened 2 blogs and both of them fail because after some time I stoped writing posts and as a result of that I ended up closing them. Now, looking back in time I can see that they didn't fail because I stoped writing posts, them failed because I didn't have a strong reason to keep writing consistently.
 
 Having a reason behind the things that you do makes all the difference. I learned this because not a long time ago I read in a book that in order to give meaning to the things that you do and to clarify your aim you must have a "why" and this "why" should be as clear and brief as possible. I recommend writing it down as it makes it easy for you to go back to the reasons behind what you're doing and think if your current work is aligned with the aim that you wrote. Also, it could help you find motivation by remembering why you started doing it in the first place and why you must keep doing it, or perhaps it's time to stop doing it because you aren't aligned anymore with your aim.
 
