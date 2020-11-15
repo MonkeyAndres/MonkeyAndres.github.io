@@ -1,6 +1,6 @@
-- title: ack.
-  url: /thanks
-  external: false
+- title: telegram
+  url: https://t.me/monkeyandres
+  external: true
 
 - title: github
   url: https://github.com/monkeyandres

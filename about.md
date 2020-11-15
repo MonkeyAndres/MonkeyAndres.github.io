@@ -24,6 +24,7 @@ Okay, not bad, that could be used as an introduction. Thanks for reading.
 
 **Contact me**
 
-- [Github (monkeyandres)](https://github.com/{{ site.author.github }})
-- [LinkedIn (monkeyandres)](https://linkedin.com/in/{{ site.author.linkedin }})
+- [Telegram (@{{ site.author.telegram }})](https://t.me/{{ site.author.telegram }})
+- [Github (@{{ site.author.github }})](https://github.com/{{ site.author.github }})
+- [LinkedIn ({{ site.author.linkedin }})](https://linkedin.com/in/{{ site.author.linkedin }})
 - [{{ site.author.email }}](mailto:{{ site.author.email }})
