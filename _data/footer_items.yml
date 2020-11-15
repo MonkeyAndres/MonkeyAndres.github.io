@@ -2,10 +2,10 @@
   url: /thanks
   external: false
 
-- title: resume
-  url: javascript::void(0)
-  external: false
+- title: github
+  url: https://github.com/monkeyandres
+  external: true
 
-- title: rss
-  url: /feed.xml
-  external: false
+- title: linkedin
+  url: https://linkedin.com/in/monkeyandres
+  external: true
