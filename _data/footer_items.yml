@@ -9,3 +9,7 @@
 - title: linkedin
   url: https://linkedin.com/in/monkeyandres
   external: true
+
+- title: ack.
+  url: /thanks/
+  external: false
