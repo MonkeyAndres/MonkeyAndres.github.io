@@ -3,7 +3,7 @@ layout: default
 home: true
 ---
 
-{% assign pinned = site.posts | where_exp: "item", "item.pin == true" %} 
+{% assign pinned = site.posts | where_exp: "item", "item.pin == true" | reverse %} 
 
 {% if pinned.size > 0 %}
 <h3 class="posts-item-note" aria-label="Pinned Posts">Pinned Posts</h3>
