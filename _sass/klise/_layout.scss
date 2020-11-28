@@ -262,6 +262,11 @@
       }
     }
   }
+
+  .pinned-post::before {
+    content: "📌";
+    margin-right: 5px;
+  }
 }
 
 // Footer
@@ -325,7 +330,6 @@
     color: $text-link-blue-active;
   }
 }
-
 
 .search-article {
   position: relative;

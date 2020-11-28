@@ -9,9 +9,7 @@ home: true
 <h3 class="posts-item-note" aria-label="Pinned Posts">Pinned Posts</h3>
 {%- for post in pinned -%}
 <article class="post-item">
-  <h4 class="post-item-title">
-    <a href="{{ post.url }}">📌 {{ post.title | escape }}</a>
-  </h4>
+  <h4 class="post-item-title pinned-post"><a href="{{ post.url }}">{{ post.title | escape }}</a></h4>
 </article>
 {%- endfor -%} 
 {% endif %}
