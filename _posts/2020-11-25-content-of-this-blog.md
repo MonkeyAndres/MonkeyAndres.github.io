@@ -45,3 +45,5 @@ My mission now is to advocate for the idea that reading books isn't as bad as yo
 Writing a post is harder than I thought. Takes a lot of time to find an interesting topic to talk about, the right way to approach it, and to find the most adequate expressions.
 
 That being said I don't want to promise that I will be frequent as I want this blog to be a hobby and I want it to have quality content no matter how many hours or days I have to put on it.
+
+Thanks for reading.
