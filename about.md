@@ -6,6 +6,8 @@ excerpt: Short introduction about myself.
 comments: false
 ---
 
+> Read more about what I'm currently working on in the [now page.](../now)
+
 Hello, my name is Andres Martin Angulo... and that's all I have to say. Thanks for reading, bye.
 
 Okay, no, let's try again...I've always been a person who finds it difficult to talk about himself but today I'm going to give it a shot.
