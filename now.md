@@ -8,7 +8,7 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 05/01/2021
+Last updated: 09/01/2021
 
 # Active projects
 
@@ -38,8 +38,5 @@ Last updated: 05/01/2021
   - **Learn Math**
   - **Advent of Code 2019**
   - **Advent of Code 2020**
-
-# Other
-- Watching Gravity Falls, very hooked in the lore and the mysteries
  
 _This is a now page, read more about the project [here](https://nownownow.com/about)_
