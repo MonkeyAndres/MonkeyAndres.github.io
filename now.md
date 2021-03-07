@@ -8,7 +8,7 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 21/02/2021
+Last updated: 07/03/2021
 
 # Active projects
 
@@ -24,7 +24,7 @@ Last updated: 21/02/2021
   - Using [Anki flashcards](https://apps.ankiweb.net/)
   - Writing everything that I need to write in English
 - **Superior FP**: continuing my oficial studies about web development on the side
-- **Research**: trying to find better ways to use social media
+- **Personal**: thinking about my life purpose and what I want my life to be in the following years. I think that with this whole pandemic I've been stuck in my routine for too long and I need a change in my life.
 
 # Paused projects
 
@@ -36,5 +36,6 @@ Last updated: 21/02/2021
   - **Learn Math**
   - **Advent of Code 2019**
   - **Advent of Code 2020**
+  - **Research**
  
 _This is a now page, read more about the project [here](https://nownownow.com/about)_
