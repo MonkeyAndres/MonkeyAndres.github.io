@@ -8,7 +8,7 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 07/03/2021
+Last updated: 21/03/2021
 
 # Active projects
 
@@ -17,9 +17,8 @@ Last updated: 07/03/2021
   - Been working there for 2 years and a half
 - **Calisthenics**
   - Working on getting more consistent pull ups and muscle ups with better form
-- **Trading**: practising day trading with a demo account
-  - Two trading sessions: UK open and US open
-  - Brokerage used: CityIndex
+  - Practising handstand (almost got it but need more balance)
+  - And front lever (I need more core strength)
 - **Improve my English**
   - Using [Anki flashcards](https://apps.ankiweb.net/)
   - Writing everything that I need to write in English
@@ -30,6 +29,7 @@ Last updated: 07/03/2021
 
 - **Travelling**: paused because of COVID
 - Paused due to lack of time:
+  - **Trading**
   - **Blog**
   - **Learn Rust**
   - **Driving license**
