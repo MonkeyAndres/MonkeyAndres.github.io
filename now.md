@@ -8,7 +8,7 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 21/03/2021
+Last updated: 04/04/2021
 
 # Active projects
 
@@ -23,7 +23,8 @@ Last updated: 21/03/2021
   - Using [Anki flashcards](https://apps.ankiweb.net/)
   - Writing everything that I need to write in English
 - **Superior FP**: continuing my oficial studies about web development on the side
-- **Personal**: thinking about my life purpose and what I want my life to be in the following years. I think that with this whole pandemic I've been stuck in my routine for too long and I need a change in my life.
+- **Personal**: trying to live as simple as possible. Enjoying every moment as it was my last
+- **Cooking**: start making my own meals again. I'm not cooking from scratch but I'm getting used to cook again
 
 # Paused projects
 
