@@ -22,13 +22,14 @@ Last updated: 04/04/2021
 - **Improve my English**
   - Using [Anki flashcards](https://apps.ankiweb.net/)
   - Writing everything that I need to write in English
-- **Superior FP**: continuing my oficial studies about web development on the side
 - **Personal**: trying to live as simple as possible. Enjoying every moment as it was my last
 - **Cooking**: start making my own meals again. I'm not cooking from scratch but I'm getting used to cook again
+- **Trading**: learning and practising day trading
 
 # Paused projects
 
 - **Travelling**: paused because of COVID
+- **Superior FP**: paused until next course
 - Paused due to lack of time:
   - **Trading**
   - **Blog**
