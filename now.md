@@ -8,7 +8,7 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 04/04/2021
+Last updated: 18/05/2021
 
 # Active projects
 
@@ -31,7 +31,6 @@ Last updated: 04/04/2021
 - **Travelling**: paused because of COVID
 - **Superior FP**: paused until next course
 - Paused due to lack of time:
-  - **Trading**
   - **Blog**
   - **Learn Rust**
   - **Driving license**
