@@ -8,7 +8,7 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 18/05/2021
+Last updated: 12/06/2021
 
 # Active projects
 
@@ -24,7 +24,8 @@ Last updated: 18/05/2021
   - Writing everything that I need to write in English
 - **Personal**: trying to live as simple as possible. Enjoying every moment as it was my last
 - **Cooking**: start making my own meals again. I'm not cooking from scratch but I'm getting used to cook again
-- **Trading**: learning and practising day trading
+- **Trading**: doing a stocks & bonds course on [Khan Academy](https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds)
+- **Learn Rust**: following a [series of tutorials](https://pwy.io/en/posts/learning-to-fly-pt1/) about Rust
 
 # Paused projects
 
@@ -32,7 +33,6 @@ Last updated: 18/05/2021
 - **Superior FP**: paused until next course
 - Paused due to lack of time:
   - **Blog**
-  - **Learn Rust**
   - **Driving license**
   - **Learn Math**
   - **Advent of Code 2019**
