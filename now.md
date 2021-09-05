@@ -8,29 +8,29 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 25/07/2021
+Last updated: 05/09/2021
 
 # Active projects
 
-- **Job**
+- **Career**
   - JavaScript Developer @ [Redradix](https://redradix.com/)
   - Been working there for almost 3 years
+  - Reading "Clean Coder"
 - **Calisthenics**
-  - Practising handstand (almost got it but need more balance)
-  - And front lever (I need more core strength)
+  - I've lost a lot of strength because of the summer so I'm in a basics routine
 - **Improve my English**
   - Using [Anki flashcards](https://apps.ankiweb.net/)
   - Writing everything that I need to write in English
-- **Personal**: trying to organize my thoughts by writing down them on a daily basis
+- **Personal**: focusing less on productivity and more on enjoying life
+- **Blog**: struggling with how to express my ideas
 - **Cooking**: start making my own meals again. I'm not cooking from scratch but I'm getting used to cook again
-- **Trading**: ordering and structuring some notes on trading
+- **Trading**: trying to analyze charts and jump into small trades
 - **Superior FP**: doing a 4-month course on advance programming
 
 # Paused projects
 
 - **Travelling**: paused because of COVID
 - Paused due to lack of time:
-  - **Blog**
   - **Driving license**
   - **Learn Math**
   - **Advent of Code 2019**
