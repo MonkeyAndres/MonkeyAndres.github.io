@@ -18,7 +18,7 @@ Apart from the fact of being a developer, I'm a very curious person who likes to
 
 That being said you can imagine that this blog will be full of random posts without any relation between them and you aren't very wrong about it.
 
-You can see all the projects that I'm currently working on [here](../now). Yep, I'm working in a lot of things in parallel, that's completely fine, isn't it?
+You can see all the projects that I'm currently working on [here](../now). Yep, I'm working on a lot of things in parallel, that's completely fine, isn't it?
 
 Okay, not bad, that could be used as an introduction. Thanks for reading.
 
