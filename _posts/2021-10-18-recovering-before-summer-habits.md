@@ -8,7 +8,7 @@ tags: []
 date: 2021-10-18 22:50 +0200
 ---
 
-This summer was very crazy, I party a lot and I went out almost 4 days a week. Sure, those moments were fun and I don't regret anything about them. The problem comes once the summer it's over, and it's time to go back to the normal routine of working and studying. Although this change may sound trivial it isn't, let me explain.
+This summer was so crazy, I party a lot and I went out almost 4 days a week. Sure, those moments were fun and I don't regret anything about them. The problem comes once the summer it's over, and it's time to go back to the normal routine of working and studying. Although this change may sound trivial it isn't, let me explain.
 
 Personally, I divide my life in two periods, the "social" period which happens in summer (June to August) and the "improvement" period. The difference between them is that while in the "improvement" period my main focus is to get closer to my personal goals and ambitions, in the "social" period there's no specific goal, it's a period for living new adventures.
 
