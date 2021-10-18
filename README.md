@@ -20,7 +20,7 @@ This project uses [jekyll-compose](https://github.com/jekyll/jekyll-compose) tha
 bundle exec jekyll draft "My draft"
 
 # Publish draft
-bundle exec jekyll draft _drafts/my-draft
+bundle exec jekyll publish _drafts/my-draft
 
 # Create post
 bundle exec jekyll post "My post"
