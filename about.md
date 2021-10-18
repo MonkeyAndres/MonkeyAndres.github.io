@@ -18,7 +18,7 @@ Apart from the fact of being a developer, I'm a very curious person who likes to
 
 That being said you can imagine that this blog will be full of random posts without any relation between them and you aren't very wrong about it.
 
-In order to finish my introduction I would say that for the moment I'm not planning to write any post just because I have a lot of things going on such as learning day trading, studying, practising calisthenics, my job...
+You can see all the projects that I'm currently working on [here](../now). Yep, I'm working in a lot of things in parallel, that's completely fine, isn't it?
 
 Okay, not bad, that could be used as an introduction. Thanks for reading.
 
