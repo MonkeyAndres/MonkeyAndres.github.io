@@ -62,7 +62,7 @@ jekyll_compose:
       tags: []
 
 # Homepage limit posts
-number_of_posts: 6
+number_of_posts: 5
 
 # Build settings
 # theme: klise
