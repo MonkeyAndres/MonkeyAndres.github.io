@@ -8,7 +8,7 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 14/11/2021
+Last updated: 12/12/2021
 
 # Active projects
 
@@ -25,7 +25,7 @@ Last updated: 14/11/2021
 - **Blog**: getting used to write for publishing
 - **Cooking**: making fancy meals once a week
 - **Superior FP**: only 4 subjects left to finish the degree
-- **Research**: ordering my notes from "Hace falta un muchacho" and "Clean coder"
+- **Learn Math**: using [Higher Engineering Mathematics by John Bird](https://www.amazon.com/Higher-Engineering-Mathematics-7th-ed/dp/0415662826)
 
 # Paused projects
 
@@ -33,7 +33,7 @@ Last updated: 14/11/2021
 - Paused due to lack of time:
   - **Trading**
   - **Driving license**
-  - **Learn Math**
+  - **Research**
   - **Advent of Code 2019**
   - **Advent of Code 2020**
   - **Learn Rust**
