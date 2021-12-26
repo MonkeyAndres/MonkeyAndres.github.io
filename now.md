@@ -8,7 +8,7 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 12/12/2021
+Last updated: 26/12/2021
 
 # Active projects
 
@@ -25,7 +25,7 @@ Last updated: 12/12/2021
 - **Blog**: getting used to write for publishing
 - **Cooking**: making fancy meals once a week
 - **Superior FP**: only 4 subjects left to finish the degree
-- **Learn Math**: using [Higher Engineering Mathematics by John Bird](https://www.amazon.com/Higher-Engineering-Mathematics-7th-ed/dp/0415662826)
+- **Learn Math**: using [The Art and Craft of Problem Solving by Paul Zeitz](https://www.goodreads.com/book/show/593458.The_Art_and_Craft_of_Problem_Solving)
 
 # Paused projects
 
