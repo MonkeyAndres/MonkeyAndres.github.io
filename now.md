@@ -8,24 +8,23 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 26/12/2021
+Last updated: 09/01/2022
 
 # Active projects
 
 - **Career**
   - JavaScript Developer @ [Redradix](https://redradix.com/)
   - Working there for +3 years
-- **Calisthenics**
-  - Doing light exercise at home everyday after waking up
+- **Workout**: Running + calisthenics
 - **Improve my English**
   - Using [Anki flashcards](https://apps.ankiweb.net/)
   - Writing everything that I need to write in English
 - **Personal**
-  - Building up self discipline
+  - Planning my 2022
 - **Blog**: getting used to write for publishing
 - **Cooking**: making fancy meals once a week
 - **Superior FP**: only 4 subjects left to finish the degree
-- **Learn Math**: using [The Art and Craft of Problem Solving by Paul Zeitz](https://www.goodreads.com/book/show/593458.The_Art_and_Craft_of_Problem_Solving)
+- **Learn Math**: reviewing math basics with [Khan Academy](https://www.khanacademy.org/)
 
 # Paused projects
 
@@ -36,6 +35,7 @@ Last updated: 26/12/2021
   - **Research**
   - **Advent of Code 2019**
   - **Advent of Code 2020**
+  - **Advent of Code 2021**
   - **Learn Rust**
  
 _This is a now page, read more about the project [here](https://nownownow.com/about)_
