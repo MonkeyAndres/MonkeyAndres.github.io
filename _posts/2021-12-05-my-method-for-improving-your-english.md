@@ -52,7 +52,6 @@ Apart from the whole Anki thing, I'm going to list some other tips or resources 
 - Watch all the series and movies in English with subtitles in either English or Spanish, that's your choice. You can also follow english speaking Youtubers.
 - For translating texts, I use [DeepL](https://www.deepl.com/translator) instead of Google Translate, in either case try to use it as least as possible. Also, for single words or expressions, I like to use [WordReference](https://wordreference.com/) because it explains multiple meanings for the same word.
 - Reviewing my Anki cards every day, seriously, it only takes ~15 minutes.
-
 - If you find yourself failing the same Anki cards, stop for a moment and go study that concept that you're failing until you understand it. A good resource for that is the [Grammarly Handbook](https://www.grammarly.com/blog/category/handbook/).
 - Install the [LanguageTool](https://languagetool.org/) browser extension, it basically does spell checking in every text box within your browser. Really useful when writing emails in English or editing your LinkedIn profile.
 
