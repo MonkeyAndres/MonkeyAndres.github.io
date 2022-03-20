@@ -23,9 +23,10 @@ Last updated: 19/02/2022
   - Learning to relax more often
   - Defining the person I want to be in the future
 - **Blog**: keeping up with my resolution of doing 1 article/month
-- **Cooking**: making fancy meals once a week
-- **Superior FP**: only final project left
-- **Learn Math**: reviewing math basics with [Khan Academy](https://www.khanacademy.org/)
+- **Cooking**: 
+  - Making fancy meals once a week
+  - Doing intermittent fasting (14:10)
+- **Superior FP**: final project in progress
 
 # Paused projects
 
@@ -38,5 +39,6 @@ Last updated: 19/02/2022
   - **Advent of Code 2020**
   - **Advent of Code 2021**
   - **Learn Rust**
+  - **Learn Math**
  
 _This is a now page, read more about the project [here](https://nownownow.com/about)_
