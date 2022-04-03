@@ -8,20 +8,21 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 19/02/2022
+Last updated: 03/04/2022
 
 # Active projects
 
 - **Career**
   - JavaScript Developer @ [Redradix](https://redradix.com/)
   - Working there for +3 years
-- **Workout**: running + calisthenics (using [Convict Conditioning](https://www.goodreads.com/book/show/7305111-convict-conditioning) workouts)
+- **Workout**: 
+  - Running with [Nike Run Club](https://www.nike.com/nrc-app) app 
+  - Calisthenics (using [Convict Conditioning](https://www.goodreads.com/book/show/7305111-convict-conditioning) workouts)
 - **Improve my English**
   - Using [Anki flashcards](https://apps.ankiweb.net/)
   - Writing everything that I need to write in English
 - **Personal**
   - Learning to relax more often
-  - Defining the person I want to be in the future
 - **Blog**: keeping up with my resolution of doing 1 article/month
 - **Cooking**: 
   - Making fancy meals once a week
