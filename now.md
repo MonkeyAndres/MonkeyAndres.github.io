@@ -8,13 +8,12 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 03/04/2022
+Last updated: 01/05/2022
 
 # Active projects
 
 - **Career**
-  - JavaScript Developer @ [Redradix](https://redradix.com/)
-  - Working there for +3 years
+  - Vacation time between jobs
 - **Workout**: 
   - Running with [Nike Run Club](https://www.nike.com/nrc-app) app 
   - Calisthenics (using [Convict Conditioning](https://www.goodreads.com/book/show/7305111-convict-conditioning) workouts)
@@ -22,16 +21,15 @@ Last updated: 03/04/2022
   - Using [Anki flashcards](https://apps.ankiweb.net/)
   - Writing everything that I need to write in English
 - **Personal**
+  - Moving to Berlin for work
   - Learning to relax more often
 - **Blog**: keeping up with my resolution of doing 1 article/month
-- **Cooking**: 
-  - Making fancy meals once a week
-  - Doing intermittent fasting (14:10)
+- **Cooking**: cooking fancy meals once a week
 - **Superior FP**: final project in progress
+- **Travelling**: moving to Berlin on May 11th
 
 # Paused projects
 
-- **Travelling**: paused because of COVID
 - Paused due to lack of time:
   - **Trading**
   - **Driving license**
