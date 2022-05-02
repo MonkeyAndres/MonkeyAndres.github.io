@@ -4,7 +4,7 @@ title: My experience doing intermittent fasting
 description: Brief explanation of my experience practising intermittent fasting for over a month.
 pin: false
 tags: []
-date: 2022-05-02 12:41 +0100
+date: 2022-05-02 10:00 +0100
 ---
 
 At the start of March, I decided to give a try to intermittent fasting. The whole idea came because a friend of mine has been doing it for some time and reported some benefits like better sleep and energy increase. As I liked the idea of sleeping better and having more energy, I decided to try it for a month and see if I sense any of those benefits.
