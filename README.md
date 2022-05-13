@@ -4,6 +4,8 @@ Site generated from [piharpi/jekyll-klise](https://github.com/piharpi/jekyll-kli
 
 ## Usage
 
+> [Guide on how to setup Jekyll on M1](https://earthinversion.com/blogging/how-to-install-jekyll-on-appple-m1-macbook/)
+
 Run local server:
 
 ```bash
