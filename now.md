@@ -8,28 +8,26 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 01/05/2022
+Last updated: 13/05/2022
 
 # Active projects
 
 - **Career**
-  - Vacation time between jobs
+  - Full Stack Engineer at [Airsiders](https://airsiders.com/)
 - **Workout**: 
   - Running with [Nike Run Club](https://www.nike.com/nrc-app) app 
   - Calisthenics (using [Convict Conditioning](https://www.goodreads.com/book/show/7305111-convict-conditioning) workouts)
 - **Improve my English**
   - Using [Anki flashcards](https://apps.ankiweb.net/)
-  - Writing everything that I need to write in English
-- **Personal**
-  - Moving to Berlin for work
-  - Learning to relax more often
+  - Working with an English-speaking team
+- **Personal**: searching new hobbies
 - **Blog**: keeping up with my resolution of doing 1 article/month
 - **Cooking**: cooking fancy meals once a week
-- **Superior FP**: final project in progress
-- **Travelling**: moving to Berlin on May 11th
+- **Travelling**: exploring Berlin and making some friends
 
 # Paused projects
 
+- **Superior FP**
 - Paused due to lack of time:
   - **Trading**
   - **Driving license**
