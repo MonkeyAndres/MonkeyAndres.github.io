@@ -13,11 +13,11 @@ Full of enthusiasm, our boy was completing one by one all the lessons of the cou
 
 With this new job, our boy started to develop apps with the adults, from them, he learned to think for a better way to do things and to keep learning. Commit by commit, task by task, without noticing, our young man was already leading projects, completing them with a smile on his face and enjoying the process.
 
-Everything was great, until at one point he started to notice the monotony of his work, everything was easy to him, and he didn't find any new challenges that could help him grow. Till this moment, our young man acknowledged that his adventure in Redradix had ended. Full of sadness, he said goodbye to this phase that helped grow personal and professionally. Now, it was time to look for new challenged that could satisfy his curiosity.
+Everything was great, until at one point he started to notice the monotony of his work, everything was easy to him, and he didn't find any new challenges that could help him grow. Since this moment, our young man acknowledged that his adventure in Redradix had ended. Full of sadness, he said goodbye to this phase that helped grow personal and professionally. Now, it was time to look for new challenged that could satisfy his curiosity.
 
 In call for adventure, our adventurer decided to took one of the craziest decisions of his life, he wanted to move outside of Spain and work from there. After some planning, he fulfilled his objective and proceed to move to Berlin where they were waiting him for working at Airsiders.
 
-For the moment, this is everything that we know about our young man. Nowadays, he's in German territory, living his adventure, remembering how far curiosity has taken him and how lucky he is for being able to fulfill his dreams day by day.
+For the moment, this is everything that we know about our young man. Nowadays, he's in German territory, living his adventure, remembering how far curiosity has taken him and how lucky he is for being able to fulfil his dreams day by day.
 
 To be continued...
 
