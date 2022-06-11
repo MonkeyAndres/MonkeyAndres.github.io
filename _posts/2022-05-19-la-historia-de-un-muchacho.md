@@ -1,25 +1,26 @@
 ---
 layout: post
-title: La historia de un muchacho
+title: The story of a young man
 description: First part of my personal story.
 pin: false
 tags: []
 date: 2022-05-19 21:00 +0200
 ---
-Érase una vez, un adolescente de 17 años con una pasión enorme por los ordenadores. Este adolescente, ya tenía conocimientos básicos de programación, pero, deseaba conocer "como programaban los mayores en el mundo real". Con el fin de cumplir su misión, decidió invertir un verano entero cursando el bootcamp de programación web en Ironhack.
 
-Lleno de ganas, nuestro muchacho, fue completando poco a poco las lecciones del curso, incluso, a veces, pedía a sus profesores más materiales para estudiar. Durante el curso, fue conociendo a personas increíbles que, más adelante, marcarían el curso de su carrera profesional y lo llevarían a conseguir su primer trabajo en Redradix. En este punto, nuestro joven había conseguido su objetivo inicial, pero, la aventura no había hecho más que empezar.
+Once upon a time, a 17-year-old young man with huge passion for computers. This young man, already had some basic programming knowledge but, he wanted to know "how the adults program in the real world". With this goal, he decided to spend an entire summer studying the IronHack web development boot camp.
 
-Con su nuevo trabajo, nuestro individuo comenzó a desarrollar aplicaciones junto con los mayores, de los cuales aprendió que siempre había algo nuevo que aprender y una manera mejor de hacer las cosas. Commit a commit, tarea a tarea, sin darse cuenta, nuestro adolescente ya se encontraba liderando proyectos, sacándolos adelante con una sonrisa y disfrutando el proceso.
+Full of enthusiasm, our boy was completing one by one all the lessons of the course even, sometimes he would ask for more to his teachers. During this course, he met great people who after some time would make him get his first job at Redradix. At this point, our young man had fulfilled his initial goal but, the adventure was just getting started.
 
-Todo iba genial, hasta que en cierto punto, empezó a notar la monotonía en su trabajo, todo le parecía sencillo y no encontraba retos que le hicieran mejorar o aprender algo nuevo. Desde ese momento, nuestro adolescente comprendió que había llegado el final de su aventura en Redradix. Lleno de pena, se dispuso a despedirse de esta etapa que le ayudó tanto personal como profesionalmente y se disponía a buscar retos nuevos que pudieran satisfacer su curiosidad.
+With this new job, our boy started to develop apps with the adults, from them, he learned to think for a better way to do things and to keep learning. Commit by commit, task by task, without noticing, our young man was already leading projects, completing them with a smile on his face and enjoying the process.
 
-En su búsqueda de aventuras, nuestro aventurero decidió tomar una de las mayores decisiones de su vida, quería mudarse al extranjero y trabajar allí. Tras muchas horas de planificación, alcanzo su objetivo y procedió a mudarse a Berlín, donde le esperarían para trabajar en Airsiders.
+Everything was great, until at one point he started to notice the monotony of his work, everything was easy to him, and he didn't find any new challenges that could help him grow. Till this moment, our young man acknowledged that his adventure in Redradix had ended. Full of sadness, he said goodbye to this phase that helped grow personal and professionally. Now, it was time to look for new challenged that could satisfy his curiosity.
 
-Por el momento, esto es todo lo que hay que se puede contar sobre nuestro muchacho. A día de hoy, se halla en territorio alemán, viviendo su aventura, recordando lo lejos que le ha llevado su curiosidad y la suerte que tiene de poder cumplir sus sueños día a día.
+In call for adventure, our adventurer decided to took one of the craziest decisions of his life, he wanted to move outside of Spain and work from there. After some planning, he fulfilled his objective and proceed to move to Berlin where they were waiting him for working at Airsiders.
 
-Continuará...
+For the moment, this is everything that we know about our young man. Nowadays, he's in German territory, living his adventure, remembering how far curiosity has taken him and how lucky he is for being able to fulfill his dreams day by day.
+
+To be continued...
 
 ---
 
-PD: No puedo expresar con palabras lo mucho que agradezco a todas las personas que han confiado en mí y me han acompañado en esta aventura. Les prometo que voy a seguir creciendo tanto personal como profesionalmente y en algún punto espero que nuestros caminos se crucen y estén orgullosos de mi progreso.
+PS: I cannot express with words how much I appreciate all the people that trusted me and accompanied me through this adventure. I promise you that I'm going to keep growing personal and professionally and in the future I hope our paths would cross again, and you'll be proud of me and my progress.
