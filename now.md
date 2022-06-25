@@ -8,7 +8,7 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 11/06/2022
+Last updated: 25/06/2022
 
 # Active projects
 
@@ -22,11 +22,11 @@ Last updated: 11/06/2022
 - **Improve my English**
   - Using [Anki flashcards](https://apps.ankiweb.net/)
   - Working for an English-speaking company
-- **Learning German**: doing a basic german course to get around better in Berlin
 - **Personal**: changing habits and trying to use the phone less
 - **Blog**: keeping up with my resolution of doing 1 article/month
 - **Cooking**: I've created a simple meal plan and I'm sticking to it
 - **Travelling**: exploring Berlin and making some friends
+- **Learn Math**: reviewing high school math
 
 # Paused projects
 
@@ -39,6 +39,5 @@ Last updated: 11/06/2022
   - **Advent of Code 2020**
   - **Advent of Code 2021**
   - **Learn Rust**
-  - **Learn Math**
  
 _This is a now page, read more about the project [here](https://nownownow.com/about)_
