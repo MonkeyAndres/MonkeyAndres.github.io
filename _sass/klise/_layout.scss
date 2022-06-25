@@ -235,7 +235,7 @@
   }
 
   .post-item-date {
-    min-width: 96px;
+    min-width: 100px;
     color: $black;
     font-weight: 700;
     padding-right: 10px;
@@ -252,6 +252,7 @@
     font-size: $base-font-size;
     font-weight: normal;
     letter-spacing: 0.1px;
+    width: 100%;
 
     a {
       color: $text-base-color;
