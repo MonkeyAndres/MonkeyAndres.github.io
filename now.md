@@ -8,22 +8,25 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 03/07/2022
+Last updated: 09/08/2022
 
 # Active projects
 
 - **Career**
   - Full Stack Engineer at [Airsiders](https://airsiders.com/)
-- **Workout**: 
-  - Cycling around Berlin
+- **Workout**
   - Calisthenics (using [Convict Conditioning](https://www.goodreads.com/book/show/7305111-convict-conditioning) workouts)
-  - Mobility and stretching routine every Thursday
+  - Improving my mobility and flexibility
+  - Include some cardio in my workouts
 - **Improve my English**
   - Using [Anki flashcards](https://apps.ankiweb.net/)
   - Working for an English-speaking company
-- **Personal**: reconnecting with my inner self
+- **Personal**
+  - Organizing my life to match my new self
+  - Planning what my next step is going to be
+  - Taking some vacation time in Spain with friends and family
 - **Blog**: keeping up with my resolution of doing 1 article/month
-- **Cooking**: 
+- **Cooking**
   - Following a simple meal plan
   - Baking my own pastries
 - **Travelling**: exploring Berlin and making some friends
@@ -31,7 +34,6 @@ Last updated: 03/07/2022
 
 # Paused projects
 
-- **Superior FP**
 - Paused due to lack of time:
   - **Trading**
   - **Driving license**
