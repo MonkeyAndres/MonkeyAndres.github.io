@@ -8,7 +8,7 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 09/08/2022
+Last updated: 28/08/2022
 
 # Active projects
 
@@ -31,13 +31,13 @@ Last updated: 09/08/2022
   - Baking my own pastries
 - **Travelling**: exploring Berlin and making some friends
 - **Learn Math**: reviewing high school math
+- **Research**: learning about nutrition by reading [Eat, Drink, and Be Healthy - Walter Willett](https://www.goodreads.com/en/book/show/5579.Eat_Drink_and_Be_Healthy)
 
 # Paused projects
 
 - Paused due to lack of time:
   - **Trading**
   - **Driving license**
-  - **Research**
   - **Advent of Code 2019**
   - **Advent of Code 2020**
   - **Advent of Code 2021**
