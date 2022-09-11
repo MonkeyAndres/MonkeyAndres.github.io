@@ -1,15 +1,16 @@
 ---
 layout: post
-title: Improve the world by helping others
-description: Short essay explaining the "ubuntu" philosophy and why helping others
-  also benefits you.
+title: Arguments for helping and relaying on others
+description: Short essay explaining the "ubuntu" philosophy and why helping others 
+  can eventually make the world a better place to live in.
 pin: false
 tags: []
 date: 2022-07-22 10:19 +0200
 ---
+
 Some time ago, I came to the realization that human beings are weak. We came to life being very fragile creatures, we require a lot of attention, and we're unable to do anything on our own. After a while, we grow bigger and smarter, but our strength and intelligence are not as good as those of older humans. When we turn into adults, you may think that we've finally reached the "perfect" version of a human being, but even for the most gifted humans that's not true. The harsh reality is that no matter how hard you train or study, you're always going to have weak spots.
 
-Our limited nature makes it impossible for us to know everything and be good at everything. Even if you consider yourself a multipotential person and know how to survive on your own, there's always going to be areas in which you're not that good. The only way in which we can surpass our limitations is by relying on others and getting help from other people.
+Our limited nature makes it impossible for us to know everything and be good at everything. Even if you consider yourself a multipotential person and know how to survive on your own, there's always going to be areas in which you're not that good. The only way in which we can surpass our limitations is by relying and getting help from other people.
 
 Last year I discovered this philosophy called "ubuntu" which could be translated as "humanity" or "I am because we are". This was one of the main pillars of Nelson Mandela's ideology. There's no official definition for it because it's a very broad concept that could be interpreted in many ways. The easiest way that I know to explain what "ubuntu" means to me is with a simple analogy. Let's say that you are very proficient at cooking burgers and your friend is not. By helping your friend cook burgers and teaching him how to do it, you're allowing him to progress as a cook. Now that he knows how to cook burgers he can keep on learning new dishes, you're basically helping him unlock new skills.
 
@@ -32,4 +33,4 @@ You can start today by:
 - Writing down a list of the areas you can help in.
 - Watching this [short animated clip](https://youtu.be/h6fcK_fRYaI) that explains a similar concept through a dialog
 
-Thanks for reading and I'll hope that you'll extract something useful from this article and you
+Thanks for reading and I'll hope that you'll extract something useful from this article and start helping people in your community. Together we can make the world an easier place to live in.
