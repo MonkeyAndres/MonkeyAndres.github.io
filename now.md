@@ -8,7 +8,7 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 25/09/2022
+Last updated: 09/10/2022
 
 # Active projects
 
@@ -21,9 +21,8 @@ Last updated: 25/09/2022
   - Using [Anki flashcards](https://apps.ankiweb.net/)
   - Working for an English-speaking company
 - **Personal**: planning my sabbatical year
-- **Blog**: keeping up with my resolution of doing 1 article/month
-- **Travelling**: exploring Berlin
-- **Research**: learning about nutrition by reading [Eat, Drink, and Be Healthy - Walter Willett](https://www.goodreads.com/en/book/show/5579.Eat_Drink_and_Be_Healthy)
+- **Blog**: keeping up with my resolution of writing 1 article/month
+- **Research**: cleaning and reordering some old notes
 
 # Paused projects
 
