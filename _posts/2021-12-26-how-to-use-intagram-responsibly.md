@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to use Intagram responsibly
+title: How to use Instagram responsibly
 description: My way of using Instagram and controlling the time you spend on it.
 pin: false
 tags: []
