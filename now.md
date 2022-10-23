@@ -8,21 +8,24 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 09/10/2022
+Last updated: 23/10/2022
 
 # Active projects
 
 - **Career**
-  - Full Stack Engineer at [Airsiders](https://airsiders.com/)
+  - Taking a sabbatical year to enjoy my youth
 - **Workout**
   - Calisthenics (using [Convict Conditioning](https://www.goodreads.com/book/show/7305111-convict-conditioning) workouts)
   - Improving my mobility and flexibility
 - **Improve my English**
   - Using [Anki flashcards](https://apps.ankiweb.net/)
-  - Working for an English-speaking company
-- **Personal**: planning my sabbatical year
-- **Blog**: keeping up with my resolution of writing 1 article/month
-- **Research**: cleaning and reordering some old notes
+- **Personal**
+  - Reconnecting with myself
+  - Enjoying the sabbatical with family and friends
+- **Blog**
+  - Keeping up with my resolution of writing 1 article/month
+  - Writing articles using old notes
+- **Research**: stopped until I finish ordering old notes
 
 # Paused projects
 
