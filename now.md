@@ -21,7 +21,9 @@ Last updated: 23/10/2022
   - Using [Anki flashcards](https://apps.ankiweb.net/)
 - **Personal**
   - Reconnecting with myself
-  - Enjoying the sabbatical with family and friends
+  - Defining which type of life do I wanna live
+- **Cooking**
+  - Cooking healthier meals and trying new recipes
 - **Blog**
   - Keeping up with my resolution of writing 1 article/month
   - Writing articles using old notes
@@ -30,7 +32,6 @@ Last updated: 23/10/2022
 # Paused projects
 
 - Paused due to lack of time:
-  - **Cooking**
   - **Learn Math**
   - **Trading**
   - **Driving license**
