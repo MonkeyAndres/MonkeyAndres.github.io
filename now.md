@@ -28,11 +28,11 @@ Last updated: 23/10/2022
   - Keeping up with my resolution of writing 1 article/month
   - Writing articles using old notes
 - **Research**: stopped until I finish ordering old notes
+- **Learn Math**: reviewing high school math to get started with more advanced material
 
 # Paused projects
 
 - Paused due to lack of time:
-  - **Learn Math**
   - **Trading**
   - **Driving license**
   - **Advent of Code 2019**
