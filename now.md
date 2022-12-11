@@ -8,7 +8,7 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 23/10/2022
+Last updated: 11/12/2022
 
 # Active projects
 
@@ -21,21 +21,20 @@ Last updated: 23/10/2022
   - Using [Anki flashcards](https://apps.ankiweb.net/)
 - **Personal**
   - Reconnecting with myself
-  - Defining which type of life do I wanna live
+  - Living more present in the moment
 - **Cooking**
   - Cooking healthier meals and trying new recipes
-- **Blog**
-  - Keeping up with my resolution of writing 1 article/month
-  - Writing articles using old notes
-- **Research**: stopped until I finish ordering old notes
-- **Learn Math**: reviewing high school math to get started with more advanced material
+- **Advent of Code 2019**: completing older AoC
+- **Advent of Code 2022**: keeping up with today's AoC
 
 # Paused projects
 
 - Paused due to lack of time:
+  - **Blog**
+  - **Learn Math**
+  - **Research**
   - **Trading**
   - **Driving license**
-  - **Advent of Code 2019**
   - **Advent of Code 2020**
   - **Advent of Code 2021**
   - **Learn Rust**
