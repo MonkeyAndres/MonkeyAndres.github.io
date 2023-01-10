@@ -2,15 +2,31 @@
 
 Site generated from [piharpi/jekyll-klise](https://github.com/piharpi/jekyll-klise)
 
-## Usage
-
-> [Guide on how to setup Jekyll on M1](https://earthinversion.com/blogging/how-to-install-jekyll-on-appple-m1-macbook/)
-
-Run local server:
+## Setup environment
 
 ```bash
+docker run -itd -p 4000:4000 \
+  --name="jekyll-dev-env" \
+  --volume="$PWD:/srv/jekyll:Z" \
+  --volume="$PWD/vendor/bundle:/usr/local/bundle:Z" \
+  jekyll/jekyll:3.8 tail -f /dev/null
+
+docker exec -it jekyll-dev-env /bin/bash
+```
+
+## Usage
+
+Inside the container's terminal run:
+
+```bash
+# Install dependencies
 bundle install
-bundle exec jekyll serve
+
+# Serve the site
+jekyll serve
+
+# Build the site
+jekyll build
 ```
 
 ## Writing posts and drafts
@@ -19,11 +35,11 @@ This project uses [jekyll-compose](https://github.com/jekyll/jekyll-compose) tha
 
 ```bash
 # Create draft
-bundle exec jekyll draft "My draft"
+jekyll draft "My draft"
 
 # Publish draft
-bundle exec jekyll publish _drafts/my-draft
+jekyll publish _drafts/my-draft
 
 # Create post
-bundle exec jekyll post "My post"
+jekyll post "My post"
 ```
