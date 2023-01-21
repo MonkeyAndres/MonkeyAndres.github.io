@@ -10,6 +10,10 @@
   url: /now/
   external: false
 
+- title: tools
+  url: /tools/
+  external: false
+
 - title: about
   url: /about/
   external: false # set true if you using external link, see below
