@@ -32,8 +32,7 @@ Last updated: 08/01/2023
 
 # Paused projects
 
-- Paused due to lack of time:
-  
+- Paused due to lack of time: 
   - **Learn Math**
   - **Trading**
   - **Driving license**
