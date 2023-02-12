@@ -8,7 +8,7 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 08/01/2023
+Last updated: 12/02/2023
 
 # Active projects
 
@@ -22,12 +22,11 @@ Last updated: 08/01/2023
 - **Personal**
   - Reconnecting with myself
   - Living more present in the moment
-- **Cooking**
-  - Cooking healthier meals and trying new recipes
+- **Cooking / Diet**
+  - Eating more fruits and veggies
 - **Research**
-  - Virtualization technologies such as QEMU, KVM, XEN and LXD
-  - Filesystems such as ZFS, XFS, BTRFS
-- **Off-topic**: order old photos and put them in a timeline
+  - Emacs and Org-mode
+  - Fediverse and social media like Mastodon
 - **Blog**: preparing new blog posts
 
 # Paused projects
