@@ -6,6 +6,8 @@ excerpt: List of all the software and hardware that I use.
 comments: false
 ---
 
+Last updated: 12/02/2023
+
 #### Software
 
 Tech
@@ -15,9 +17,9 @@ Tech
 Organization
 - **Personal Wiki**: [Notion](https://www.notion.so/) used to document personal areas of my life.
 - **Second brain**: I maintain a Zettelkasten using [Obsidian](https://obsidian.md/). The main purpose is to organize knowledge and later share it in this blog.
-- **Quick notes**: [Notesnook](https://notesnook.com/).
-- **Task management**: [Todoist](https://todoist.com/) to organize my tasks and daily routines.
 - **Personal cloud**: self hosted [Nextcloud](https://github.com/nextcloud/server) instance used as calendar and contacts server.
+- **Quick notes**: [Nextcloud Notes](https://github.com/nextcloud/notes) although I'm not very confortable with the UI/UX of it.
+- **Task management**: [org-mode](https://orgmode.org/) I've been trying it out and I'm pretty impressed already. Furthermore, I'm planning to migrate my personal wiki to org-mode.
 
 Multimedia
 - **Music**: Apple Music, on my desktops I use [Cider](https://cider.sh/)

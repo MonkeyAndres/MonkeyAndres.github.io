@@ -8,30 +8,29 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 12/02/2023
+Last updated: 26/02/2023
 
 # Active projects
 
 - **Career**
-  - Taking a sabbatical year to enjoy my youth
-- **Workout**
+  - Looking at new positions
+- **Exercise**
   - Calisthenics (using [Convict Conditioning](https://www.goodreads.com/book/show/7305111-convict-conditioning) workouts)
   - Improving my mobility and flexibility
+  - Planning to dance shuffle again
 - **Improve my English**
   - Using [Anki flashcards](https://apps.ankiweb.net/)
 - **Personal**
-  - Reconnecting with myself
-  - Living more present in the moment
+  - Getting more disciplined
+  - Taking back control of my time and living with intention
 - **Cooking / Diet**
   - Eating more fruits and veggies
-- **Research**
-  - Emacs and Org-mode
-  - Fediverse and social media like Mastodon
 - **Blog**: preparing new blog posts
 
 # Paused projects
 
 - Paused due to lack of time: 
+  - **Research**
   - **Learn Math**
   - **Trading**
   - **Driving license**
