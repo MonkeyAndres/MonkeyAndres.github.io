@@ -2,7 +2,6 @@
 layout: post
 title: Why this blog?
 description: In this post, I'm answering the question "Why did I open this blog?". Even if it seems to be a very meaningless question it isn't, let me explain the importance behind it before I answer.
-pin: true
 tags: []
 date: 2020-11-09 13:43 +0100
 ---
