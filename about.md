@@ -8,7 +8,7 @@ comments: false
 
 Hello, I'm Andres! Welcome to my website, this is my little space in the internet where I share the insight of my researches and my vision of the world.
 
-I'm a very curious person who likes to research from time to time and experiment with different topics such as nutrition, personal finance, sports, productivity, etc. I enjoy keeping my mind busy with something to do. You can the projects that I'm currently working on [here](../now).
+I'm a very curious person who likes to research from time to time and experiment with different topics such as nutrition, personal finance, sports, productivity, etc. I enjoy keeping my mind busy with something to do. You can see the projects that I'm currently working on [here](../now).
 
 Wanna know more about me? [Read my story.](https://monkeyandres.com/post/la-historia-de-un-muchacho/)
 
