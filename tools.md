@@ -6,7 +6,7 @@ excerpt: List of all the software and hardware that I use.
 comments: false
 ---
 
-Last updated: 12/02/2023
+Last updated: 12/03/2023
 
 #### Software
 
@@ -33,8 +33,7 @@ Other
 
 #### Hardware
 
-- **PC**: custom made i3 6100 + 8GB RAM + GTX 1060 3GB
-- **Laptop**: HP with an i5 7200u
+- **Laptop**: HP Pavilion x360 (i5 7200U + 8GB RAM + 256GB SSD)
 - **Phone**: iPhone XR 64GB
 - **Smartwatch**: Apple Watch Series 4
 - **Tablet**: iPad Mini 5
