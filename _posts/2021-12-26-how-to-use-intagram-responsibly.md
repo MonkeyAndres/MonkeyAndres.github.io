@@ -3,7 +3,7 @@ layout: post
 title: How to use Instagram responsibly
 description: My way of using Instagram and controlling the time you spend on it.
 pin: false
-tags: []
+tags: [social-media]
 date: 2021-12-26 22:28 +0100
 ---
 

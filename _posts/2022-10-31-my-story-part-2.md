@@ -4,7 +4,7 @@ title: My story (part II)
 description: Second part of my personal story. How the Berlin adventure went and why
   I decided to take a sabbatical period.
 pin: false
-tags: []
+tags: [my-story]
 date: 2022-10-31 20:00 +0100
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Why you must respect all opinions and beliefs
 description: Let's analyze what respect is and what's stopping us from having an open mind and respecting other's opinions.
 pin: true
-tags: []
+tags: [philosophy]
 date: 2022-09-22 21:57 +0200
 ---
 

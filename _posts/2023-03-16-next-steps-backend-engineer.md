@@ -3,7 +3,7 @@ layout: post
 title: "Next Steps: Becoming a Backend Engineer"
 description: Sharing my journey transitioning from full-stack to backend development.
 pin: true
-tags: []
+tags: [my-story]
 date: 2023-03-16 12:21 +0100
 ---
 

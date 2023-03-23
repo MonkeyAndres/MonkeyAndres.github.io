@@ -4,7 +4,7 @@ title: Exploring your comfort and discomfort zones
 description: Short essay exploring how comfort and discomfort shape our every day
   lives.
 pin: false
-tags: []
+tags: [discipline]
 date: 2022-12-23 14:00 +0100
 ---
 

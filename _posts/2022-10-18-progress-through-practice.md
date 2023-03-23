@@ -4,9 +4,10 @@ title: Progress through practice
 description: Discuss the importance of practice in the process of learning a new skill
   or starting a new hobby.
 pin: false
-tags: []
+tags: [learning]
 date: 2022-10-18 12:40 +0200
 ---
+
 I've always been a curious kid and I enjoy learning lots of different things. A couple of years ago, I started to get interested in cooking. I wanted to learn how to make my own meals so that I could make big burgers, cheesy pizzas and lots of brownies and cookies. 
 
 My first steps as a cook went quite well, I started making basic recipes like pasta, rice, eggs and other "survival cooking" recipes that everyone knows. Time passed by, and I kept on doing the same basic recipes over and over without much variation. I've tried subscribing to some YT channels that upload food recipes to get inspiration and learn new recipes. Even though I found lots of new recipes, I found myself spending more time watching others cook than cooking myself. My brain was tricking me to believe that I was getting better at cooking, when in reality I was just wasting time.

@@ -4,7 +4,7 @@ title: Arguments for helping and relaying on others
 description: Short essay explaining the "ubuntu" philosophy and why helping others 
   can eventually make the world a better place to live in.
 pin: false
-tags: []
+tags: [philosophy]
 date: 2022-07-22 10:19 +0200
 ---
 

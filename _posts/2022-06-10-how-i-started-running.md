@@ -4,7 +4,7 @@ title: How I started running
 description: Short article explaining how I started running. And talking about the
   NRC app.
 pin: false
-tags: []
+tags: [exercise]
 date: 2022-06-10 20:27 +0200
 ---
 Running is one of the most popular ways to do cardio training, if you're like me and neglect cardio in your workouts, you're missing out, let me explain.

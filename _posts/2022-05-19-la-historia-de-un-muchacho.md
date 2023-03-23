@@ -3,7 +3,7 @@ layout: post
 title: The story of a young man
 description: First part of my personal story.
 pin: false
-tags: []
+tags: [my-story]
 date: 2022-05-19 21:00 +0200
 ---
 

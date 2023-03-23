@@ -3,7 +3,7 @@ layout: post
 title: Advice on how to choose your career path
 description: About talents, passions and how to be useful to your community and the world.
 pin: false
-tags: []
+tags: [life-advice]
 date: 2021-11-11 21:03 +0100
 ---
 

@@ -4,7 +4,7 @@ title: My decision-making process
 description: I want to dive deeper in the decision-making process and explain some
   techniques that will help you analyze decisions better and choose with more confidence.
 pin: false
-tags: []
+tags: [decision-making]
 date: 2022-02-20 21:00 +0100
 ---
 In my last article I talked about overcoming indecision and I gave some tips for people that are unable to decide or take a lot of time to decide simple things. Here, I want to dive deeper in the decision-making process and explain some techniques that will help you analyze decisions better and choose with more confidence.

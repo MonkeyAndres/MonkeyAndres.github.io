@@ -4,7 +4,7 @@ title: Being happy with little
 description: Explain with the help of the Greek philosopher Epicurus why being happy
   is easier than you think and how you could achieve happiness.
 pin: false
-tags: []
+tags: [happiness]
 date: 2021-11-19 22:11 +0100
 ---
 I've always been a happy person, since I was a child very few things could make me sad. When I grew up, I realized that not everyone seemed to be as happy as I was. From that moment I started to search the reason behind my constant happiness. Although I don't know why I'm such a happy person, I think I have good advices for those who are struggling with happiness.

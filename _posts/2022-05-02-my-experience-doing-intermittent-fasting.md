@@ -3,7 +3,7 @@ layout: post
 title: My experience doing intermittent fasting
 description: Brief explanation of my experience practising intermittent fasting for over a month.
 pin: false
-tags: []
+tags: [nutrition]
 date: 2022-05-02 10:00 +0100
 ---
 

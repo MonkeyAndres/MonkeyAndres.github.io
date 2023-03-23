@@ -4,7 +4,7 @@ title: Overcoming indecision
 description: Explain some tricks that may help you overcome "analysis paralysis" and
   make decisions that benefit you.
 pin: false
-tags: []
+tags: [decision-making]
 date: 2022-02-06 10:23 +0100
 ---
 Life is mostly about decisions, every day we're faced with a lot of decisions such as what to wear or which means of transport use when commuting, The fact that we're going to face a lot of decisions is inevitable. If you're an indecisive person, you might have thought of delaying infinitely your decision or worst make other people decide for you. That's counter-productive in its roots because decisions are essentially a mechanism that allows us to choose what we think is best for us. For our own good, we must learn how to make decisions that benefit us.

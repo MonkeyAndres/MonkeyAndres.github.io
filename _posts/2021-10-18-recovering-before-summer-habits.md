@@ -4,7 +4,7 @@ title: Recovering before summer habits
 description: Let's talk about how I managed to recover my normal routines after a
   crazy summer.
 pin: false
-tags: []
+tags: [habits]
 date: 2021-10-18 22:50 +0200
 ---
 
