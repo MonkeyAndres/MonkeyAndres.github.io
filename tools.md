@@ -12,7 +12,7 @@ Last updated: 23/03/2023
 
 Essentials
 - **OS**: [Fedora](https://getfedora.org/), simple, robust and works out of the box.
-- **Web browser**: [Firefox](https://www.mozilla.org/en-US/firefox/browsers/)
+- **Web browser**: [Firefox](https://www.mozilla.org/en-US/firefox/browsers/), no further comments.
 - **Coding**: [Virtual Studio Code](https://code.visualstudio.com/), it's very slow but like the plugins and the integrated debugger.
 - **Email**: [ProtonMail](https://protonmail.com/) encrypted mail and easy to use UI.
 - **Password manager**: [Bitwarden](https://bitwarden.com/) easy to use with a lot of apps for all platforms.
@@ -24,13 +24,11 @@ Organization
 - **Personal cloud**: self hosted [Nextcloud](https://github.com/nextcloud/server) instance used as calendar and contacts server.
 - **Quick notes**: [Nextcloud Notes](https://github.com/nextcloud/notes) although I'm not very confortable with the UI/UX of it.
 - **Task management**: [org-mode](https://orgmode.org/) I've been trying it out and I'm pretty impressed already. Furthermore, I'm planning to migrate my personal wiki to org-mode.
+- **Expenses manager**: [Dime](https://apps.apple.com/us/app/dime-budgets-and-expenses/id1635280255) minimal and elegant UI without ads (only iOS)
 
 Multimedia
 - **Music**: Apple Music, on my desktops I use [Cider](https://cider.sh/)
 - **Movies/Shows tracker**: [Trackt](https://trakt.tv/) very convenient for recommending movies and keeping a watchlist.
-
-Other
-- **Expenses manager**: [Dime](https://apps.apple.com/us/app/dime-budgets-and-expenses/id1635280255) minimal and elegant UI without ads (only iOS)
 
 Browser Extensions
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) best ad-blocker ever.
