@@ -6,13 +6,17 @@ excerpt: List of all the software and hardware that I use.
 comments: false
 ---
 
-Last updated: 12/03/2023
+Last updated: 23/03/2023
 
 #### Software
 
-Tech
+Essentials
 - **OS**: [Fedora](https://getfedora.org/), simple, robust and works out of the box.
+- **Web browser**: [Firefox](https://www.mozilla.org/en-US/firefox/browsers/)
 - **Coding**: [Virtual Studio Code](https://code.visualstudio.com/), it's very slow but like the plugins and the integrated debugger.
+- **Email**: [ProtonMail](https://protonmail.com/) encrypted mail and easy to use UI.
+- **Password manager**: [Bitwarden](https://bitwarden.com/) easy to use with a lot of apps for all platforms.
+- **RSS Aggregator**: [FreshRSS](https://www.freshrss.org/) by far the best way to consume the web.
 
 Organization
 - **Personal Wiki**: [Notion](https://www.notion.so/) used to document personal areas of my life.
@@ -26,10 +30,19 @@ Multimedia
 - **Movies/Shows tracker**: [Trackt](https://trakt.tv/) very convenient for recommending movies and keeping a watchlist.
 
 Other
-- **Email**: [ProtonMail](https://protonmail.com/) encrypted mail and easy to use UI.
-- **Password manager**: [Bitwarden](https://bitwarden.com/) easy to use with a lot of apps for all platforms.
-- **WebApp organiser**: [Ferdium](https://ferdium.org/) the single most useful app I have on my computers.
 - **Expenses manager**: [Dime](https://apps.apple.com/us/app/dime-budgets-and-expenses/id1635280255) minimal and elegant UI without ads (only iOS)
+
+Browser Extensions
+- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) best ad-blocker ever.
+- [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager) passwords auto-fill.
+- [Get RSS URL](https://addons.mozilla.org/en-US/firefox/addon/get-rss-feed-url/) get RSS feed URLs easily.
+- [ChatGPTBox](https://addons.mozilla.org/en-US/firefox/addon/chatgptbox/) integrate ChatGPT everywhere.
+- [Multi Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) separate work and personal accounts within Firefox.
+- [LanguageTool](https://addons.mozilla.org/en-US/firefox/addon/languagetool/) grammar and spell checker.
+- [Distraction-free YouTube](https://addons.mozilla.org/en-US/firefox/addon/df-youtube/) remove visual elements from YT for a cleaner experience.
+- [I still don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/) removes cookie banners
+- [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/) vertical tabs FTW.
+- [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) useful for reading "premium" news sites.
 
 #### Hardware
 
@@ -37,4 +50,3 @@ Other
 - **Phone**: iPhone XR 64GB
 - **Smartwatch**: Apple Watch Series 4
 - **Tablet**: iPad Mini 5
-
