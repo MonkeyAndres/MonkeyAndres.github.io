@@ -6,7 +6,7 @@ excerpt: List of all the software and hardware that I use.
 comments: false
 ---
 
-Last updated: 23/03/2023
+Last updated: 26/03/2023
 
 #### Software
 
@@ -33,8 +33,7 @@ Multimedia
 Browser Extensions
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) best ad-blocker ever.
 - [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager) passwords auto-fill.
-- [Get RSS URL](https://addons.mozilla.org/en-US/firefox/addon/get-rss-feed-url/) get RSS feed URLs easily.
-- [ChatGPTBox](https://addons.mozilla.org/en-US/firefox/addon/chatgptbox/) integrate ChatGPT everywhere.
+- [List Feeds](https://addons.mozilla.org/en-US/firefox/addon/list-feeds/) get RSS feed URLs easily.
 - [Multi Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) separate work and personal accounts within Firefox.
 - [LanguageTool](https://addons.mozilla.org/en-US/firefox/addon/languagetool/) grammar and spell checker.
 - [Distraction-free YouTube](https://addons.mozilla.org/en-US/firefox/addon/df-youtube/) remove visual elements from YT for a cleaner experience.
