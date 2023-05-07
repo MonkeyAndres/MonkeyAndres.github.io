@@ -8,12 +8,12 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 26/03/2023
+Last updated: 07/05/2023
 
 # Active projects
 
 - **Career**
-  - Looking for Backend positions
+  - Software Developer at [SponsWatch](https://sponswatch.com/)
 - **Exercise**
   - Calisthenics (using [Convict Conditioning](https://www.goodreads.com/book/show/7305111-convict-conditioning) workouts)
   - Improving my mobility and flexibility
@@ -25,6 +25,7 @@ Last updated: 26/03/2023
 - **Cooking / Diet**
   - Eating more fruits and veggies
 - **Blog**: preparing new blog posts
+- **Study Deep Learning**: study the basics of ML and deep learning
 
 # Paused projects
 
