@@ -8,7 +8,7 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 07/05/2023
+Last updated: 04/07/2023
 
 # Active projects
 
@@ -16,7 +16,7 @@ Last updated: 07/05/2023
   - Software Developer at [SponsWatch](https://sponswatch.com/)
 - **Exercise**
   - Calisthenics (using [Convict Conditioning](https://www.goodreads.com/book/show/7305111-convict-conditioning) workouts)
-  - Improving my mobility and flexibility
+  - Trying to pick up running again
 - **Improve my English**
   - Using [Anki flashcards](https://apps.ankiweb.net/)
 - **Personal**
