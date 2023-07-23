@@ -3,7 +3,7 @@ layout: post
 title: Content of this blog
 description: In this post, I want to explain what I'm going to share so you know what
   to expect from it.
-pin: true
+pin: false
 tags: []
 date: 2020-11-25 18:23 +0100
 ---
