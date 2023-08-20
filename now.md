@@ -8,7 +8,7 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 04/07/2023
+Last updated: 20/08/2023
 
 # Active projects
 
@@ -20,8 +20,8 @@ Last updated: 04/07/2023
 - **Improve my English**
   - Using [Anki flashcards](https://apps.ankiweb.net/)
 - **Personal**
-  - Getting more disciplined
-  - Taking back control of my time and living with intention
+  - Getting rid of bad habits
+  - Creating a healthy schedule
 - **Cooking / Diet**
   - Eating more fruits and veggies
 - **Blog**: preparing new blog posts
