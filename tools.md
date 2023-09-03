@@ -12,11 +12,12 @@ Last updated: 20/08/2023
 
 Essentials
 - **OS**: [Fedora](https://getfedora.org/), simple, robust and works out of the box.
-- **Web browser**: [Firefox](https://www.mozilla.org/en-US/firefox/browsers/), no further comments.
+- **Web browser**: [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium), more private and faster than Firefox.
 - **Coding**: [Virtual Studio Code](https://code.visualstudio.com/), it's very slow but like the plugins and the integrated debugger.
 - **Email**: [ProtonMail](https://protonmail.com/) encrypted mail and easy to use UI.
 - **Password manager**: [Bitwarden](https://bitwarden.com/) easy to use with a lot of apps for all platforms.
 - **RSS Aggregator**: [FreshRSS](https://www.freshrss.org/) by far the best way to consume the web.
+- **Read later**: [Pocket](https://getpocket.com/home) save articles to read later.
 
 Organization
 - **Personal Wiki**: I documented some personal areas in [Notion](https://www.notion.so/), however, nowadays I use org-mode for everything.
@@ -41,25 +42,27 @@ Home lab
   - [Scrutiny](https://github.com/AnalogJ/scrutiny): monitor the health of the hard drives in my server setup
 
 Browser Extensions
-- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) best ad-blocker ever.
-- [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager) passwords auto-fill.
-- [Multi Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) separate work and personal accounts within Firefox.
-- [Tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/): beautiful new tab page.
-- [Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/): hibernate inactive tabs to save resources.
-- [LanguageTool](https://addons.mozilla.org/en-US/firefox/addon/languagetool/) grammar and spell checker.
-- [Distraction-free YouTube](https://addons.mozilla.org/en-US/firefox/addon/df-youtube/) remove visual elements from YT for a cleaner experience.
-- [I still don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/) removes cookie banners.
-- [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/) vertical tabs FTW.
-- [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) useful for reading "premium" news sites.
-- [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/): enlarge images on mouse-hover.
-- [m-wiki](https://addons.mozilla.org/en-US/firefox/addon/m-wiki/): redirect Wikipedia pages to the mobile version. I find the mobile version more readable and elegant.
-- [JSON View](https://addons.mozilla.org/en-US/firefox/addon/jsonview/): prettify JSON files.
+- [Auto Tab Discard](https://chrome.google.com/webstore/detail/auto-tab-discard/jhnleheckmknfcgijgkadoemagpecfol): hibernate inactive tabs to save resources.
+- [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) passwords auto-fill.
+- [Chromium Web Store](https://github.com/NeverDecaf/chromium-web-store): support for extensions for ungoogled-chromium.
+- [Distraction-free YouTube](https://chrome.google.com/webstore/detail/df-tube-distraction-free/mjdepdfccjgcndkmemponafgioodelna) remove visual elements from YT for a cleaner experience.
+- [Floccus](https://chrome.google.com/webstore/detail/floccus-bookmarks-sync/fnaicdffflnofjppbagibeoednhnbjhg): sync my bookmarks from Nextcloud.
+- [LanguageTool](https://chrome.google.com/webstore/detail/grammar-checker-paraphras/oldceeleldhonbafppcapldpdifcinji) grammar and spell checker.
+- [I still don't care about cookies](https://chrome.google.com/webstore/detail/i-still-dont-care-about-c/edibdbjcniadpccecjdfdjjppcpchdlm) removes cookie banners.
+- [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab): enlarge images on mouse-hover.
+- [JSON View](https://chrome.google.com/webstore/detail/jsonview/gmegofmjomhknnokphhckolhcffdaihd): prettify JSON files.
+- [Linguist](https://chrome.google.com/webstore/detail/linguist-web-pages-transl/gbefmodhlophhakmoecijeppjblibmie): translate web pages.
+- [m-wiki](https://chrome.google.com/webstore/detail/m-wiki/ibnmikddaopgfbbngcgcfmanjfgbcopf): redirect Wikipedia pages to the mobile version. I find the mobile version more readable and elegant.
+- [Reader View](https://chrome.google.com/webstore/detail/reader-view/ecabifbgmdmgdllomnfinbmaellmclnh): declutter websites for a improved reading experience.
+- [Save to Notion](https://chrome.google.com/webstore/detail/save-to-notion/ldmmifpegigmeammaeckplhnjbbpccmm): alternative web clipper. I use it to save food recipes in Notion.
+- [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj): save stuff to Pocket.
+- [Tabliss](https://chrome.google.com/webstore/detail/tabliss-a-beautiful-new-t/hipekcciheckooncpjeljhnekcoolahp): beautiful new tab page.
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) simple ad-blocker, works out of the box.
 
 GNOME Extensions
 - [Alphabetical App Grid](https://extensions.gnome.org/extension/4269/alphabetical-app-grid/): I can't live without it
 - [AppIndicator support](https://extensions.gnome.org/extension/615/appindicator-support/): add support for tray icons
 - [Caffeine](https://extensions.gnome.org/extension/517/caffeine/): keep the screen on while doing nothing
-- [Cronomix](https://extensions.gnome.org/extension/6003/cronomix/): my go-to Pomodoro timer
 - [ddterm](https://extensions.gnome.org/extension/3780/ddterm/): drop-down terminal with Wayland support
 - [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/): connect your phone with your computer
 - [Hot Edge](https://extensions.gnome.org/extension/4222/hot-edge/): trigger activities view when the mouse goes to the bottom of the monitor
