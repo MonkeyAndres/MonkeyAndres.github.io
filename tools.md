@@ -6,7 +6,7 @@ excerpt: List of all the software and hardware that I use.
 comments: false
 ---
 
-Last updated: 20/08/2023
+Last updated: 03/09/2023
 
 #### Software
 
