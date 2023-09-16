@@ -6,6 +6,7 @@ pin: false
 tags: [finances]
 date: 2021-11-14 21:21 +0100
 ---
+
 Money is important in our current society, it's the base of our economy and gives you the power to obtain almost anything that you want. Given its importance, you must have a healthy relation with money and not be scared of it. In the end, it's just a tool that could help you live your life more comfortably. This is the story of how I started to save money after noticing the importance of it.
 
 When I was 15 my parents started giving me money monthly for going out with friends or buying new clothes. As you might imagine, this money wasn't enough to satisfy my teenager desires, and I ran out of money in the first two weeks of the month. 

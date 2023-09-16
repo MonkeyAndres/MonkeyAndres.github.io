@@ -60,7 +60,7 @@ Always remember that the performance of the team is proportional to the health o
 
 ## Takeaways
 
-I talked about lots of ideas in this post. You might feel tempted to  try some of the practices that I shared here. However, be aware that they might work on your team.
+I talked about lots of ideas in this post. You might feel tempted to try some of the practices that I shared here. However, be aware that they might work on your team.
 
 Let's do things differently. I encourage you to create your own methodology, customized for the people on your team. Just make sure to keep things simple and make communication your top priority.
 

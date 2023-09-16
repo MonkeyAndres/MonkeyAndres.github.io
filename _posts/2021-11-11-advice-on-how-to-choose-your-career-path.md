@@ -19,9 +19,9 @@ With great power comes great responsibility, so let's break down this decision. 
 
 ## Talents
 
-Talents are the set of skills that you do great without even noticing and with no effort or previous practice. The special thing about talent is that most times it manifests when we're young and we don't notice it. 
+Talents are the set of skills that you do great without even noticing and with no effort or previous practice. The special thing about talent is that most times it manifests when we're young, and we don't notice it. 
 
-Do you remember something you did better than your colleagues when you were 6 or 7? Maybe you run the fastest or you were good with handcrafts, those are clear examples of talents.
+Do you remember something you did better than your colleagues when you were 6 or 7? Maybe you run the fastest, or you were good with handcrafts, those are clear examples of talents.
 
 If you don't remember anything you were good at when you were younger, don't worry because everyone is talented at something, you only have to find your thing.
 
@@ -33,7 +33,7 @@ But wait, you know what's aligned with your personality? Your passions.
 
 ## Passions
 
-I would describe passions as activities we like doing and we want to be better at. The difference with talents is that you don't need to be good at them to have a nice time. You could be bad at cooking, but it is your passion for it what would motivate you to be better at it.
+I would describe passions as activities we like doing, and we want to be better at. The difference with talents is that you don't need to be good at them to have a nice time. You could be bad at cooking, but it is your passion for it what would motivate you to be better at it.
 
 In the matter of passions, I have almost zero advice on how to find yours, so you're on your own here. You could try asking friends and family, but I think the answer is within yourself, not outside.
 
@@ -41,7 +41,7 @@ In the matter of passions, I have almost zero advice on how to find yours, so yo
 
 Now that you're aware of the distinction between your talents and passions, they could be either aligned or not.
 
-If talents and passions are aligned, you should already have the decision clear. You must also remember that talent isn't enough and you have to hone your abilities everyday to achieve greatness.
+If talents and passions are aligned, you should already have the decision clear. You must also remember that talent isn't enough, and you have to hone your abilities every day to achieve greatness.
 
 In the other hand, if talents and passions aren't aligned, you have it more difficult. You have to choose between your passions and talents, no matter what you choose you must aim to be the best in that field.
 

@@ -12,7 +12,7 @@ date: 2020-11-25 18:23 +0100
 
 ---
 
-In this post, I want to explain what I'm going to share so you know what to expect from it.
+In this post, I want to explain what I'm going to share, so you know what to expect from it.
 
 ## What will I write about?
 
@@ -20,7 +20,7 @@ It's difficult for me to explain all the topics and ideas that I want to share s
 
 ### Personal opinions
 
-As it's my blog and not someone else's, I will share my opinion about any topic that interests me. I want this opinionated content to be more like a debate and I'll be open to read any counter-arguments and try to understand different perspectives. We can use [Telegram](https://t.me/monkeyandres) for these discussions.
+As it's my blog and not someone else's, I will share my opinion about any topic that interests me. I want this opinionated content to be more like a debate, and I'll be open to read any counter-arguments and try to understand different perspectives. We can use [Telegram](https://t.me/monkeyandres) for these discussions.
 
 ### Solutions that I've implemented in my life
 
@@ -32,11 +32,11 @@ With that in mind, I wanted to share some personal problems that I faced in the 
 
 ### Life advise
 
-First of all, I'm no man of wisdom and no enlightened monk who knows all the answers to all of your existing questions. Putting that aside, I will say that throughout my short life I've been lucky enough to meet brilliant people. Some of them gave me good advice that I think is worth sharing because it may be useful for you as well.
+First, I'm no man of wisdom and no enlightened monk who knows all the answers to all of your existing questions. Putting that aside, I will say that throughout my short life I've been lucky enough to meet brilliant people. Some of them gave me good advice that I think is worth sharing because it may be useful for you as well.
 
 ### Book recommendations
 
-Like most teenagers, I've never been interested in books. In the last 2 years that has changed because of a book that I found which hook me into reading. Since then, I've read a lot of books and some of them were (and are) really useful on a day to day basis.
+Like most teenagers, I've never been interested in books. In the last 2 years that has changed because of a book that I found which hook me into reading. Since then, I've read a lot of books and some of them were (and are) really useful on a day-to-day basis.
 
 My mission now is to advocate for the idea that reading books isn't as bad as you think and that you can find a lot of interesting ideas and stories in books. For that purpose, I'll recommend books that I think will interest people and bring some value to their life.
 

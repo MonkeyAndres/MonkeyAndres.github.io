@@ -12,7 +12,7 @@ This summer was so crazy, I party a lot and I went out almost 4 days a week. Sur
 
 Personally, I divide my life in two periods, the "social" period which happens in summer (June to August) and the "improvement" period. The difference between them is that while in the "improvement" period my main focus is to get closer to my personal goals and ambitions, in the "social" period there's no specific goal, it's a period for living new adventures.
 
-Both periods are important for having a balanced life of working on my goals  and living new experiences that inspire me to continue working towards my dreams. Getting stuck into one period is bad as I start to lose balance and life could get chaotic.
+Both periods are important for having a balanced life of working on my goals and living new experiences that inspire me to continue working towards my dreams. Getting stuck into one period is bad as I start to lose balance and life could get chaotic.
 
 This particular year, I was struggling with this transition, so I tried to come up with a plan that would make this transition easier for future years.
 
@@ -26,6 +26,6 @@ Well, it's like a self-established punishment in which I'm going to limit all th
 
 By doing that I can replace "social" habits for "improvement" habits like reading or going to the gym. Although this may sound very easy in reality it's hard to have the necessary willpower to limit "social" habits. 
 
-Now that this "detox period" has almost finished I can say that my old habits are back and I have the required time for writing this short article about my experience.
+Now that this "detox period" has almost finished I can say that my old habits are back, and I have the required time for writing this short article about my experience.
 
 Thanks for reading, and I hope that you'll find this text useful for recovering the order in your life.
