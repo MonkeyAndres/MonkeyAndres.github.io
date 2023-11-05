@@ -8,28 +8,29 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 20/08/2023
+Last updated: 05/11/2023
 
 # Active projects
 
 - **Career**
   - Software Developer at [SponsWatch](https://sponswatch.com/)
 - **Exercise**
-  - Calisthenics (using [Convict Conditioning](https://www.goodreads.com/book/show/7305111-convict-conditioning) workouts)
-  - Trying to pick up running again
+  - Running every morning
+  - Calisthenics (muscle up + front lever + explosive push-ups)
 - **Improve my English**
   - Using [Anki flashcards](https://apps.ankiweb.net/)
 - **Personal**
   - Getting rid of bad habits
-  - Creating a healthy schedule
+  - Giving myself some headspace to listen to my inner voice
 - **Cooking / Diet**
-  - Eating more fruits and veggies
+  - Practicing knife sharpening
+  - Testing out a healthy rotatory menu
 - **Blog**: preparing new blog posts
-- **Study Deep Learning**: study the basics of ML and deep learning
 
 # Paused projects
 
 - Paused due to lack of time: 
+  - **Study Deep Learning**
   - **Research**
   - **Learn Math**
   - **Trading**
