@@ -34,7 +34,7 @@ Architecture is not only about high level details. A good architect gets into lo
 
 The difficulty of changes to a system should be proportional to the scope of the change. Most times, the difficulty of changes is defined by the shape of the system. This is a smell of a bad architecture. Proper architecture prioritizes shape agnostic patters so that software could change in any direction. Remember, softness is the reason why software exists in the first place.
 
-**** Tech debt and clean code
+## Tech debt and clean code
 Well-designed code matters. We write code for a machine to run it, but, more importantly we run code for us and our future selves.
 
 Stop yourself from piling "tech debt". We all know that once tech debt starts to accumulate it's hardly cleaned afterward. Business pressure will never cease.
