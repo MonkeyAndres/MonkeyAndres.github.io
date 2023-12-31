@@ -8,7 +8,7 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 05/11/2023
+Last updated: 31/12/2023
 
 # Active projects
 
@@ -20,17 +20,18 @@ Last updated: 05/11/2023
 - **Improve my English**
   - Using [Anki flashcards](https://apps.ankiweb.net/)
 - **Personal**
-  - Getting rid of bad habits
-  - Giving myself some headspace to listen to my inner voice
+  - Reconnecting with my values
+  - Finding meaning in life
 - **Cooking / Diet**
   - Practicing knife sharpening
   - Testing out a healthy rotatory menu
-- **Blog**: preparing new blog posts
+- **Study Deep Learning**
+  - Doing some courses and playing around with small models
 
 # Paused projects
 
 - Paused due to lack of time: 
-  - **Study Deep Learning**
+  - **Blog**
   - **Research**
   - **Learn Math**
   - **Trading**
