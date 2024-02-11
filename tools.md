@@ -6,7 +6,7 @@ excerpt: List of all the software and hardware that I use.
 comments: false
 ---
 
-Last updated: 03/09/2023
+Last updated: 11/02/2024
 
 #### Software
 
@@ -75,3 +75,4 @@ GNOME Extensions
 - **Phone**: iPhone XR 64GB
 - **Smartwatch**: Apple Watch Series 4
 - **Tablet**: iPad Mini 5
+- **Gaming**: Steam Deck OLED 512GB

@@ -8,23 +8,24 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 31/12/2023
+Last updated: 11/02/2024
 
 # Active projects
 
 - **Career**
   - Software Developer at [SponsWatch](https://sponswatch.com/)
 - **Exercise**
-  - Running every morning
-  - Calisthenics (muscle up + front lever + explosive push-ups)
+  - Calisthenics (pull and push workouts)
 - **Improve my English**
   - Using [Anki flashcards](https://apps.ankiweb.net/)
 - **Personal**
   - Reconnecting with my values
   - Finding meaning in life
+  - Saving more time and space for myself
 - **Cooking / Diet**
   - Practicing knife sharpening
   - Testing out a healthy rotatory menu
+- **Gaming**: playing some NMS and FH4
 - **Study Deep Learning**
   - Doing some courses and playing around with small models
 
