@@ -8,7 +8,7 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 11/02/2024
+Last updated: 11/03/2024
 
 # Active projects
 
@@ -16,26 +16,29 @@ Last updated: 11/02/2024
   - Software Developer at [SponsWatch](https://sponswatch.com/)
 - **Exercise**
   - Calisthenics (pull and push workouts)
-- **Improve my English**
-  - Using [Anki flashcards](https://apps.ankiweb.net/)
+  - Cardio on Wednesdays
 - **Personal**
-  - Reconnecting with my values
-  - Finding meaning in life
-  - Saving more time and space for myself
+  - Finding peace in life
+  - Losing weight and fasting
+- **House decor**
+  - Finding my own style
+  - Learning to take care of house plants
+- **Investing**
+  - Using Trading212 as broker
+  - Dividend investments, S&P 500 and cannabis stocks
 - **Cooking / Diet**
   - Practicing knife sharpening
   - Testing out a healthy rotatory menu
 - **Gaming**: playing some NMS and FH4
-- **Study Deep Learning**
-  - Doing some courses and playing around with small models
+
 
 # Paused projects
 
 - Paused due to lack of time: 
+  - **Study Deep Learning**
   - **Blog**
   - **Research**
   - **Learn Math**
-  - **Trading**
   - **Driving license**
   - **Advent of Code 2019**
   - **Advent of Code 2020**
