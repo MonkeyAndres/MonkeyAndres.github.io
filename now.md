@@ -8,7 +8,7 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 11/03/2024
+Last updated: 31/03/2024
 
 # Active projects
 
@@ -20,6 +20,7 @@ Last updated: 11/03/2024
 - **Personal**
   - Finding peace in life
   - Losing weight and fasting
+  - Savoring the present
 - **House decor**
   - Finding my own style
   - Learning to take care of house plants
@@ -30,12 +31,11 @@ Last updated: 11/03/2024
   - Practicing knife sharpening
   - Testing out a healthy rotatory menu
 - **Gaming**: playing some NMS and FH4
-
+- **Study Deep Learning**: playing with some small models
 
 # Paused projects
 
 - Paused due to lack of time: 
-  - **Study Deep Learning**
   - **Blog**
   - **Research**
   - **Learn Math**
