@@ -8,12 +8,13 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 31/03/2024
+Last updated: 05/05/2024
 
 # Active projects
 
 - **Career**
-  - Software Developer at [SponsWatch](https://sponswatch.com/)
+  - Career change!
+  - AI Engineer for [AI Consortivm](https://www.aiconsortivm.com/)
 - **Exercise**
   - Calisthenics (pull and push workouts)
   - Cardio on Wednesdays
@@ -30,8 +31,8 @@ Last updated: 31/03/2024
 - **Cooking / Diet**
   - Practicing knife sharpening
   - Testing out a healthy rotatory menu
-- **Gaming**: playing some NMS and FH4
-- **Study Deep Learning**: playing with some small models
+- **Gaming**: playing some FH4
+- **Study Deep Learning**: doing basic LLM fine-tunning
 
 # Paused projects
 
