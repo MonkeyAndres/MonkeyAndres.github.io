@@ -18,6 +18,7 @@ Wanna know which tools or hardware do I use? [Read the tools page.](../tools)
 
 **Contact me**
 
+- [Instagram (@{{ site.author.instagram }})](https://instagram.com/{{ site.author.instagram }})
 - [Telegram (@{{ site.author.telegram }})](https://t.me/{{ site.author.telegram }})
 - [Github (@{{ site.author.github }})](https://github.com/{{ site.author.github }})
 - [LinkedIn ({{ site.author.linkedin }})](https://linkedin.com/in/{{ site.author.linkedin }})
