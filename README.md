@@ -5,18 +5,13 @@ Site generated from [piharpi/jekyll-klise](https://github.com/piharpi/jekyll-kli
 ## Setup environment
 
 ```bash
-docker run -itd -p 4000:4000 \
-  --name="jekyll-dev-env" \
-  --volume="$PWD:/srv/jekyll:Z" \
-  --volume="$PWD/vendor/bundle:/usr/local/bundle:Z" \
-  jekyll/jekyll:3.8 tail -f /dev/null
-
-docker exec -it jekyll-dev-env /bin/bash
+devbox install
+devbox shell
 ```
 
 ## Usage
 
-Inside the container's terminal run:
+Inside the devbox's shell run:
 
 ```bash
 # Install dependencies
