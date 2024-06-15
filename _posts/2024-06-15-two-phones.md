@@ -7,7 +7,7 @@ tags: [short-essays]
 date: 2024-06-15 16:06 +0000
 ---
 
-It's simple. I don't like distractions.
+It's simple. I don't like distractions. I have 1 phone for social matters, and another for tools + productivity.
 
 I enjoy my alone time. I use it to build castles in my mind, made of ideas. But these idea castles are fragile. It takes hours to craft one. Then my phone rings, and it all falls apart. The world's chaos rushes in. Social media, messages, emails. I'm not against socializing. But quality alone time matters to me.
 
