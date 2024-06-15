@@ -6,13 +6,13 @@ excerpt: List of all the software and hardware that I use.
 comments: false
 ---
 
-Last updated: 11/02/2024
+Last updated: 15/06/2024
 
 #### Software
 
 Essentials
 - **OS**: [Fedora](https://getfedora.org/), simple, robust and works out of the box.
-- **Web browser**: [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium), more private and faster than Firefox.
+- **Web browser**: [Chromium](https://chromium.woolyss.com/download/), it was my only option, it's way faster than Firefox.
 - **Coding**: [Virtual Studio Code](https://code.visualstudio.com/), it's very slow but like the plugins and the integrated debugger.
 - **Email**: [ProtonMail](https://protonmail.com/) encrypted mail and easy to use UI.
 - **Password manager**: [Bitwarden](https://bitwarden.com/) easy to use with a lot of apps for all platforms.
@@ -20,10 +20,10 @@ Essentials
 - **Read later**: [Pocket](https://getpocket.com/home) save articles to read later.
 
 Organization
+- **Calendar**: with time I came to realize that all I needed to manage my life is a plain calendar app. No task management. Time management. No fancy tools. KISS
 - **Personal Wiki**: I documented some personal areas in [Notion](https://www.notion.so/), however, nowadays I use org-mode for everything.
 - **Second brain**: I maintain a Zettelkasten using [Obsidian](https://obsidian.md/). The main purpose is to organize knowledge and later share it in this blog.
 - **Personal cloud**: self hosted [Nextcloud](https://github.com/nextcloud/server) instance used as calendar and contacts server.
-- **Quick notes**: Apple Notes.
 - **Task management**: [org-mode](https://orgmode.org/) I've been trying it out and I'm pretty impressed already. Furthermore, I'm planning to migrate my personal wiki to org-mode.
 - **Expenses manager**: [Dime](https://apps.apple.com/us/app/dime-budgets-and-expenses/id1635280255) minimal and elegant UI without ads (only iOS)
 
@@ -40,6 +40,8 @@ Home lab
   - [Nextcloud AIO](https://github.com/nextcloud/all-in-one): AIO cloud solution for calendar, contacts, files, photos, etc.
   - [Uptime Kuma](https://uptime.kuma.pet/): monitor uptime of all the services I run + notifications on downtime
   - [Scrutiny](https://github.com/AnalogJ/scrutiny): monitor the health of the hard drives in my server setup
+  - [WG Easy](https://github.com/wg-easy/wg-easy): wireguard VPN
+  - [Home Assistant](https://www.home-assistant.io/): home automation
 
 Browser Extensions
 - [Auto Tab Discard](https://chrome.google.com/webstore/detail/auto-tab-discard/jhnleheckmknfcgijgkadoemagpecfol): hibernate inactive tabs to save resources.
@@ -53,11 +55,11 @@ Browser Extensions
 - [JSON View](https://chrome.google.com/webstore/detail/jsonview/gmegofmjomhknnokphhckolhcffdaihd): prettify JSON files.
 - [Linguist](https://chrome.google.com/webstore/detail/linguist-web-pages-transl/gbefmodhlophhakmoecijeppjblibmie): translate web pages.
 - [m-wiki](https://chrome.google.com/webstore/detail/m-wiki/ibnmikddaopgfbbngcgcfmanjfgbcopf): redirect Wikipedia pages to the mobile version. I find the mobile version more readable and elegant.
-- [Reader View](https://chrome.google.com/webstore/detail/reader-view/ecabifbgmdmgdllomnfinbmaellmclnh): declutter websites for a improved reading experience.
 - [Save to Notion](https://chrome.google.com/webstore/detail/save-to-notion/ldmmifpegigmeammaeckplhnjbbpccmm): alternative web clipper. I use it to save food recipes in Notion.
 - [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj): save stuff to Pocket.
 - [Tabliss](https://chrome.google.com/webstore/detail/tabliss-a-beautiful-new-t/hipekcciheckooncpjeljhnekcoolahp): beautiful new tab page.
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) simple ad-blocker, works out of the box.
+- [SingleFile](https://github.com/gildas-lormeau/SingleFile): save web pages as a single HTML file.
 
 GNOME Extensions
 - [Alphabetical App Grid](https://extensions.gnome.org/extension/4269/alphabetical-app-grid/): I can't live without it
@@ -71,8 +73,11 @@ GNOME Extensions
 
 #### Hardware
 
-- **Laptop**: HP Pavilion x360 (i5 7200U + 8GB RAM + 256GB SSD)
-- **Phone**: iPhone XR 64GB
+- **Laptop**: Slimbook ProX 14 (Ryzen 7 5700u + 32GB RAM + 1TB NVME)
+- **Personal Phone**: OnePlus Nord 3 5G
+- **Social Phone**: iPhone XR 64GB
 - **Smartwatch**: Apple Watch Series 4
 - **Tablet**: iPad Mini 5
 - **Gaming**: Steam Deck OLED 512GB
+- **Casual headphones**: AirPods 2nd Gen
+- **Everyday headphones**: Sony WH-1000XM4
