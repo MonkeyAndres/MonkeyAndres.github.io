@@ -3,7 +3,7 @@ layout: post
 title: Why do I carry 2 phones?
 description:
 pin: false
-tags: []
+tags: [short-essays]
 date: 2024-06-15 16:06 +0000
 ---
 
