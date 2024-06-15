@@ -8,22 +8,20 @@ comments: false
 
 > Read more about myself in the [about page.](../about)
 
-Last updated: 05/05/2024
+Last updated: 15/06/2024
 
 # Active projects
 
 - **Career**
-  - Career change!
   - AI Engineer for [AI Consortivm](https://www.aiconsortivm.com/)
 - **Exercise**
-  - Calisthenics (pull and push workouts)
-  - Cardio on Wednesdays
+  - Running + Calisthenics in the morning
+- **Blog**: picking up writing again!
 - **Personal**
   - Finding peace in life
   - Losing weight and fasting
   - Savoring the present
 - **House decor**
-  - Finding my own style
   - Learning to take care of house plants
 - **Investing**
   - Using Trading212 as broker
@@ -32,19 +30,16 @@ Last updated: 05/05/2024
   - Practicing knife sharpening
   - Testing out a healthy rotatory menu
 - **Gaming**: playing some FH4
-- **Study Deep Learning**: doing basic LLM fine-tunning
+- **Research**:
+  - How can AI improve my life right now
 
 # Paused projects
 
 - Paused due to lack of time: 
-  - **Blog**
-  - **Research**
-  - **Learn Math**
-  - **Driving license**
+  - **Driving license**: scheduled for Oct. 2024
   - **Advent of Code 2019**
   - **Advent of Code 2020**
   - **Advent of Code 2021**
   - **Advent of Code 2022**
-  - **Learn Rust**
  
 _This is a now page, read more about the project [here](https://nownownow.com/about)_
